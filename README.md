@@ -1,6 +1,6 @@
 ![Readme image](readme.png)
 
-# The Product Vision ([UML Diagram](https://github.com/vpasq/ballmeet/blob/master/ballMeet_UMC.pdf)) 
+# The Product Vision 
 FOR lots of basketball players or amateurs WHO need related resources of basketball to play, 
 THE BallMeet is a basketball social app THAT provides gym reserving, team system, and match 
 function that provide a chance to know people online and play basketball at real basketball court. 
